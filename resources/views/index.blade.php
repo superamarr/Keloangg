@@ -1,7 +1,5 @@
 @extends('layouts.app')
 
-{{-- favicon --}}
-<link rel="icon" href="{{ asset('img/keloang.png') }}" type="image/x-icon">
 @section('title', 'Keloang')
 
 @section('content')
